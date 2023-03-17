@@ -1,0 +1,10 @@
+﻿Ad,Miktar,Bileşen
+"U1",1," LCD 16 x 2"
+"R1",1,"10 kΩ Rezistör"
+"U2",1," Arduino Uno R3"
+"PIEZO1",1," Piezo"
+"DIST1",1," Ultrasonik Mesafe Sensörü"
+"Rpot2",1,"250 kΩ Potansiyometre"
+"R2",1,"1000000000 uΩ Rezistör"
+"Q1",1," Ortam Işığı Sensörü [Fototransistör]"
+"R3",1,"1 kΩ Rezistör"
