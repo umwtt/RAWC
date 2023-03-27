@@ -1,0 +1,27 @@
+-Arduino Uno R3
+
+-Batarya
+
+-LCD 16x2
+
+-Ortam Işığı Sensörü [Fototransistör]
+
+-250 kQ Potansiyometre
+
+-PIR Sensörü
+
+-Buzzer
+
+-Yeşil LED
+
+-IR sensörü
+
+-Ultrasonik Mesafe Sensörü
+
+-1 Rezistör
+
+-100000 Rezistör
+
+-10 Rezistör
+
+-Konumsal Mikro Servo
