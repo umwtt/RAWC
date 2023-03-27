@@ -1,4 +1,6 @@
 # RAWC
 Kus Kovucu Projesi  
 
-![image](https://user-images.githubusercontent.com/105440827/225835540-09218f12-cc21-40a7-8975-db227f604008.png)
+<img width="432" alt="Devre Seması 2" src="https://user-images.githubusercontent.com/105440827/227909961-672fa4ce-d94c-4dce-871f-53709df109d1.png">
+
+[Parts List.txt](https://github.com/uumwttt/RAWC/files/11077265/Parts.List.txt)
